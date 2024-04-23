@@ -1,1 +1,2 @@
-# CESE_2024_GdP_Mendoza_Dante
+# Plantilla-planificacion
+Plan de proyecto para trabajos finales de posgrado en Sistemas Embebidos
